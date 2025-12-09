@@ -1,0 +1,86 @@
+Making Real-Time Predictions...
+
+
+==========================================================================================
+REAL-TIME STOCK PREDICTIONS - 09 December 2025
+==========================================================================================
+Predicting which stocks will GAIN >1.5% in next 5 days
+==========================================================================================
+
+BUY SIGNALS (Predicted to GAIN >1.5%): 12/46
+------------------------------------------------------------------------------------------
+Rank  Stock          Current Price  Probability    Confidence  Action
+------------------------------------------------------------------------------------------
+1     AXISBANK       ₹1249.60       97.2          %High        🟢 BUY
+2     BHARTIARTL     ₹2112.20       95.0          %High        🟢 BUY
+3     HEROMOTOCO     ₹5798.50       92.4          %High        🟢 BUY
+4     TECHM          ₹1452.80       88.6          %High        🟢 BUY
+5     INFY           ₹1507.60       87.9          %High        🟢 BUY
+6     EICHERMOT      ₹6799.00       86.6          %High        🟢 BUY
+7     HINDALCO       ₹807.15        85.2          %High        🟢 BUY
+8     NTPC           ₹330.20        77.2          %High        🟢 BUY
+9     DIVISLAB       ₹6518.50       71.1          %High        🟢 BUY
+10    MARUTI         ₹15878.00      66.0          %Medium      🟢 BUY
+11    ITC            ₹407.10        62.8          %Medium      🟢 BUY
+12    DABUR          ₹524.25        52.5          %Low         🟢 BUY
+
+❌ NO BUY SIGNALS (Not expected to gain): 34/46
+------------------------------------------------------------------------------------------
+Rank  Stock          Current Price  Probability    Confidence  Action
+------------------------------------------------------------------------------------------
+1     TATAMOTORS     ₹372.70        39.2          %Low         🔴 AVOID
+2     HDFCLIFE       ₹770.25        30.0          %Low         🔴 AVOID
+3     NESTLEIND      ₹1270.30       23.3          %Low         🔴 AVOID
+4     ASIANPAINT     ₹2887.90       20.9          %Low         🔴 AVOID
+5     JSWSTEEL       ₹1175.50       19.1          %Low         🔴 AVOID
+6     TATACONSUM     ₹1178.90       17.9          %Low         🔴 AVOID
+7     RELIANCE       ₹1518.30       17.8          %Low         🔴 AVOID
+8     SBILIFE        ₹1996.00       17.3          %Low         🔴 AVOID
+9     POWERGRID      ₹273.55        17.2          %Low         🔴 AVOID
+10    APOLLOHOSP     ₹7487.50       17.1          %Low         🔴 AVOID
+11    BRITANNIA      ₹5830.50       16.0          %Low         🔴 AVOID
+12    DRREDDY        ₹1244.40       15.6          %Low         🔴 AVOID
+13    BAJFINANCE     ₹1026.80       14.1          %Low         🔴 AVOID
+14    COALINDIA      ₹387.85        13.9          %Low         🔴 AVOID
+15    SUNPHARMA      ₹1763.90       13.2          %Low         🔴 AVOID
+16    HCLTECH        ₹1606.40       12.9          %Low         🔴 AVOID
+17    SBIN           ₹973.35        12.7          %Low         🔴 AVOID
+18    LTIM           ₹5848.50       12.3          %Low         🔴 AVOID
+19    INDUSINDBK     ₹854.05        8.0           %Low         🔴 AVOID
+20    KOTAKBANK      ₹2102.90       7.7           %Low         🔴 AVOID
+21    HDFCBANK       ₹996.55        7.6           %Low         🔴 AVOID
+22    ONGC           ₹248.05        7.3           %Low         🔴 AVOID
+23    LT             ₹4027.70       7.1           %Low         🔴 AVOID
+24    ICICIBANK      ₹1379.00       7.1           %Low         🔴 AVOID
+25    TATASTEEL      ₹173.17        7.0           %Low         🔴 AVOID
+26    BAJAJ-AUTO     ₹8945.50       6.5           %Low         🔴 AVOID
+27    WIPRO          ₹244.05        5.7           %Low         🔴 AVOID
+28    GRASIM         ₹2790.30       5.1           %Low         🔴 AVOID
+29    CIPLA          ₹1535.60       5.0           %Low         🔴 AVOID
+30    TCS            ₹3102.20       3.8           %Low         🔴 AVOID
+31    HINDUNILVR     ₹2425.00       3.6           %Low         🔴 AVOID
+32    BPCL           ₹374.25        3.3           %Low         🔴 AVOID
+33    ADANIENT       ₹2462.00       2.9           %Low         🔴 AVOID
+34    ADANIPORTS     ₹1507.60       2.2           %Low         🔴 AVOID
+
+==========================================================================================
+RECOMMENDATION SUMMARY
+==========================================================================================
+✅ BUY: 12 stocks (predicted to gain >1.5%)
+❌ AVOID: 34 stocks (predicted to NOT gain)
+
+💡 Based on 92.47% win rate, expect ~11/12 BUY signals to be profitable!
+==========================================================================================
+
+📁 Predictions saved: predictions_today.csv
+
+==========================================================================================
+HOW TO USE THESE PREDICTIONS
+==========================================================================================
+1. Check the BUY SIGNALS list above
+2. Focus on 'High Confidence' stocks (>70% probability)
+3. Buy TODAY (or next trading day)
+4. Wait 5 trading days
+5. Sell after 5 days (or earlier if >1.5% gain achieved)
+6. Come back after 5 days and check your results!
+==========================================================================================
